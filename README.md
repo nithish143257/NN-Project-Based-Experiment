@@ -121,20 +121,26 @@ print(x_single_prediction)
 ## Output:
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-![1NM](https://github.com/deepikasrinivasans/NN-Project-Based-Experiment/assets/119393935/0ca2a8a6-c073-4614-a79e-f3b6e3014c51)
+![image](https://github.com/nithish143257/NN-Project-Based-Experiment/assets/113762839/b8a9f140-c1c4-40d2-86dc-a54722fa4f01)
 
 
-![2NM](https://github.com/deepikasrinivasans/NN-Project-Based-Experiment/assets/119393935/03736eca-8502-4e67-b5a2-1233738be049)
+![image](https://github.com/nithish143257/NN-Project-Based-Experiment/assets/113762839/0c85a42b-4a05-4bc1-9f8b-dd1a074c9ee9)
 
 
-![3NM](https://github.com/deepikasrinivasans/NN-Project-Based-Experiment/assets/119393935/c7075e62-7db0-460d-95b9-bf6c8b99ea9e)
+![image](https://github.com/nithish143257/NN-Project-Based-Experiment/assets/113762839/3832fdce-8e52-4421-905f-4a1a0f16e07a)
 
 ### Classification Report
-![4NM](https://github.com/deepikasrinivasans/NN-Project-Based-Experiment/assets/119393935/0774dbd6-a9dd-4199-971d-e9c0d41ece15)
+
+![image](https://github.com/nithish143257/NN-Project-Based-Experiment/assets/113762839/87cf3e50-863f-426b-b23d-a9cbf1dfab7c)
+
 ### Confusion Matrix
-![5NM](https://github.com/deepikasrinivasans/NN-Project-Based-Experiment/assets/119393935/2a5ace8b-d6e6-4c0e-ac5c-ecd2fa5b6153)
+
+![image](https://github.com/nithish143257/NN-Project-Based-Experiment/assets/113762839/6fd7c19e-0fd1-44ad-aea2-1995ce6e2f36)
+
 ### New Sample Data Prediction
-![6NM](https://github.com/deepikasrinivasans/NN-Project-Based-Experiment/assets/119393935/a2ed5912-f555-415f-adf5-144a0b5dd14a)
+
+![image](https://github.com/nithish143257/NN-Project-Based-Experiment/assets/113762839/23e25f5c-bd07-4959-9370-1c4e96b5d76e)
+
 
 
 
